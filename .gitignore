@@ -1,6 +1,9 @@
 .idea
 tmp
-/bin
+bin/geoip.dat
+bin/geosite.dat
+bin/xray-linux-amd64
+bin/xray-linux-arm64
 dist/
 x-ui-*.tar.gz
 /x-ui
